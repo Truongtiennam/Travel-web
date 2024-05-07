@@ -1,0 +1,36 @@
+.pass {
+    position: relative;
+}
+
+#in-i {
+    box-sizing: border-box;
+    font-size: 20px;
+    padding: 15px;
+    position: absolute;
+    right: 30.2%;
+    top: 54.4%;
+    cursor: pointer;
+}
+
+#up-i1, #up-i2 {
+    box-sizing: border-box;
+    position: absolute;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 15px;
+}
+
+#up-i1 {
+    right: 30.2%;
+    top: 67.5%;
+}
+
+#up-i2 {
+    right: 30.2%;
+    top: 80.8%;
+}
+
+.form-container p {
+    padding-bottom: 300px;
+}
+
